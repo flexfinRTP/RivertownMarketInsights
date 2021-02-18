@@ -51,10 +51,25 @@ nav {
     padding: 30px;
     word-spacing: 255px;
 }
+.title {
+    text-decoration: underline;
+}
 #title1 {
     text-decoration: underline;
 }
 #title2 {
+    font-family: 'Franklin Gothic Medium';
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+#titlePosts {
+    font-family: 'Franklin Gothic Medium';
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+#titlePostEntry {
     font-family: 'Franklin Gothic Medium';
     padding: 20px;
     font-size: 30px;
@@ -80,7 +95,7 @@ figcaption {
     font-weight: lighter;
     font-style: italic;
 }
-#ethLink {
+.chartLink {
     font-size: 42px;
     font-family: Georgia;
     word-spacing: 0px;
